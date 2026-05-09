@@ -15,3 +15,5 @@
 [![Brain-even DEMO](https://asciinema.org/a/aGuZpG2g5R0NYCDd.svg)](https://asciinema.org/a/aGuZpG2g5R0NYCDd)
 ### Brain-calc DEMO
 [![Brain-calc DEMO](https://asciinema.org/a/rabV7xILi984Csdk.svg)](https://asciinema.org/a/rabV7xILi984Csdk)
+### Brain-gcd DEMO
+[![Brain-gcd DEMO](https://asciinema.org/a/67bk0r1fABh7SyBo.svg)](https://asciinema.org/a/67bk0r1fABh7SyBo)
