@@ -1,7 +1,7 @@
-# engine.py
 import prompt
 
 MAX_ROUNDS = 3
+
 
 def run_game(description: str, get_question_answer, name: str) -> None:
     print(description)

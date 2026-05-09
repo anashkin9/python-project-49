@@ -5,14 +5,23 @@ import prompt
 from brain_games.scripts.engine import run_game
 
 
+def is_prime(number):
+    if number < 2:
+        return False
+    for i in range(2, int(number**0.5) + 1):
+        if number % i == 0:
+            return False 
+    return True
+
+
 def get_question():
     number = random.randint(1, 100)
-    answer = 'yes' if number % 2 == 0 else 'no'
+    answer = 'yes' if is_prime(number) else 'no'
     return number, answer
 
 
 def game(name):
-    run_game('Answer "yes" if the number is even, otherwise answer "no".',
+    run_game('Answer "yes" if given number is prime. Otherwise answer "no".',
              get_question, name)
 
 
