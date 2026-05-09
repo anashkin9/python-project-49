@@ -1,4 +1,3 @@
-# brain_calc.py
 import random
 import prompt
 from brain_games.scripts.engine import run_game

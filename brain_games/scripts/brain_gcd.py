@@ -1,4 +1,3 @@
-# brain_gcd.py
 import random, math
 import prompt
 from brain_games.scripts.engine import run_game
