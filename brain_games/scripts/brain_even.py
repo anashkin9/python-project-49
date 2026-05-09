@@ -5,7 +5,8 @@ import prompt
 
 def game(name: str) -> None:
     print('Answer "yes" if the number is even, otherwise answer "no".')
-    for i in range(3):
+    max_rounds_count = 3
+    for i in range(max_rounds_count):
         number = random.randint(1, 100)
         correct_answer = 'yes' if number % 2 == 0 else 'no'
         print(f'Question: {number}')

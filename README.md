@@ -11,4 +11,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=anashkin9_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=anashkin9_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=anashkin9_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=anashkin9_python-project-49)
 
+### Brain-even DEMO
 [![Brain-even DEMO](https://asciinema.org/a/aGuZpG2g5R0NYCDd.svg)](https://asciinema.org/a/aGuZpG2g5R0NYCDd)
+### Brain-calc DEMO
+[![Brain-calc DEMO](https://asciinema.org/a/rabV7xILi984Csdk.svg)](https://asciinema.org/a/rabV7xILi984Csdk)

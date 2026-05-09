@@ -2,6 +2,7 @@ import random
 
 import prompt
 
+
 def generate_expression() -> tuple:
     operations_list = ['+', '-', '*']
     number1 = random.randint(1, 100)
@@ -20,6 +21,7 @@ def generate_expression() -> tuple:
             expression = f'{number1} * {number2}'
             correct_answer = number1 * number2
             return (expression, correct_answer)
+
 
 def game(name: str) -> None:
     print('What is the result of the expression?')
